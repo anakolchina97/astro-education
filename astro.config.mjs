@@ -17,7 +17,7 @@ export default defineConfig({
     },
     output: "server",
     adapter: vercel(),
-    site: "https://rhythm.nation",
+    site: "https://astro-education.vercel.app/",
     server: {
         port: 3000,
     },
